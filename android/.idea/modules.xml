@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.iml" filepath="$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/esp_provisioning_softap.unitTest.iml" />
+    </modules>
+  </component>
+</project>
